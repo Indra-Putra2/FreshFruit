@@ -1,15 +1,15 @@
 ﻿# Fresh Fruit
+ aplikasi sederhana yg fungsinya mensimulasikan pengambilan atau penambahan buah ke keranjang.
  
  ### Functionality
-- dapat menambahkan buah apel kedalam keranjang
-- dapat menambahkan buah pisang kedalam keranjang
-- dapat menambahkan buah jeruk kedalam keranjang
-- dapat menambahkan buah anggur kedalam keranjang
+- menambahkan item kedalam keranjang
+- dapat melihat gambar
+- dapat mengklik tombol
 
 ### Tugas
 1. Apakah fungsi BucketEventListener?
-- digunakan untuk menampilkan pesan ketika fungsi void ```onSucceed(string massage)``` atau 
-```void onFailed(string massage)``` dipanggil
+- digunakan untuk menampilkan pesan ketika fungsi ```onSucceed`` atau 
+```onFailed``` dipanggil
 
 2. Class diagram
 
