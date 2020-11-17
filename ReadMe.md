@@ -13,7 +13,7 @@
 
 2. Class diagram
 
-
+![Diagram](FreshFruit/Assets/Class%20Diagram.jpg)
 
 3. Berilah pembahasan alur atau logika pemrogramannya
 - ketika button add di klik fungsi ```public void addFruit``` dipanggil kemudian mengecek apakah 
