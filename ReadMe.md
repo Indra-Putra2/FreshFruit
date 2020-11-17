@@ -8,7 +8,7 @@
 
 ### Tugas
 1. Apakah fungsi BucketEventListener?
-- digunakan untuk menampilkan pesan ketika fungsi ```onSucceed`` atau 
+- digunakan untuk menampilkan pesan ketika fungsi ```onSucceed``` atau 
 ```onFailed``` dipanggil
 
 2. Class diagram
