@@ -43,7 +43,7 @@ namespace FreshFruit.Controller
                 if (bucket.findAll().ElementAt(itemPosition).getName() == fruit.getName())
                 {
                     bucket.remove(itemPosition);
-                    eventListener.onSucceed("Yey, Berhasil di tambahkan");
+                    eventListener.onSucceed("Yey, Berhasil di hapus");
                 }
             }
         }
